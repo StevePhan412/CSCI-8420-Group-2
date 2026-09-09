@@ -1,0 +1,42 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+ 
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+ 
+# Environment / secrets
+.env
+.env.*
+!.env.example
+ 
+# Python (if scripts/analysis get added later)
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+ 
+# Node (if any tooling/React gets added later)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+ 
+# Go (if you end up contributing to or scripting against the Go-based project)
+bin/
+*.exe
+*.test
+*.out
+ 
+# Diagram tooling
+*.drawio.bkp
+*.dtmp
+ 
+# Logs / temp
+*.log
+.tmp/
+ 
