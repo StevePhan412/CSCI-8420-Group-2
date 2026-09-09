@@ -1,6 +1,7 @@
 # CSCI-8420 — Group 2
 
 ## Team
+
 | Name | Role |
 |---|---|
 | Trung Phan | Team Lead |
