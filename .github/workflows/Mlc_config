@@ -8,6 +8,12 @@
     },
     {
       "pattern": "^#"
+    },
+    {
+      "pattern": "^diagrams/"
+    },
+    {
+      "pattern": "^https://github\\.com/users/.*/projects/"
     }
   ],
   "aliveStatusCodes": [
@@ -19,5 +25,5 @@
   ],
   "timeout": "20s",
   "retryOn429": true,
-  "retryCount": 3
+  "retryCount": 1
 }
