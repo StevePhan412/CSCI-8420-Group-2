@@ -1,0 +1,23 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^\\.\\./\\.\\./wiki"
+    },
+    {
+      "pattern": "^\\.\\./\\.\\./issues"
+    },
+    {
+      "pattern": "^#"
+    }
+  ],
+  "aliveStatusCodes": [
+    200,
+    206,
+    301,
+    302,
+    403
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 3
+}
