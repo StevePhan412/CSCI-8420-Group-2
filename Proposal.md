@@ -42,17 +42,31 @@ Threat	Addressed by
 
 (Issue #6)
 
-What it is: [2–3 sentence summary of purpose and category]
+What it is: CrowdSec Is an Open-source preventative Fail2Ban service that instead of reacting to known malicious behavior and banning appropriately; leverages all that run the program to help stop known malicous IP's. For instance, if someone were to try and bruteforce your machine, fail2ban would detect the brute-force attempt and ban you from trying to access that machine. CrowdSec takes that one step further by recording that IP and distributing it to all other machines running that service. Meaning that attacker would be banned from another machine before even attempting to attack it.
 
-Contributors & maintainers: [core maintainer(s) / backing organization, contributor count]
+Contributors & maintainers: blotus, buxior & Jdv / CrowdSec SAS, 86 Contributors]
 
-Activity: [commit/release frequency over the last 6–12 months, open vs. closed issue ratio]
+Activity: 162 Commits over 6 months (adv 27/Mth), 224 Open Issues / 1,018 Closed Issues (~22% of all Issues are Open) and they are currently at v1.8.1 (over 223 Releases)
 
-Popularity: [stars, forks, dependents, downloads if applicable]
+Popularity: 14.8K stars, 715 forks, Depends on Docker, Golang(Go), Grok Patterns, SSH, Sqlite
 
-Languages & platform: [languages used, supported platforms]
+Languages: 
+ - Go 83.2%
+ - Shell 11.7%
+ - Python 1.4%
+ - Go Template 1.3%
+ - HTML .7%
+ - MakeFile .7%
+
+supported platforms: Checkpoint, Cisco, F5, Foritnet, Juniper, Mikrotik OPNsense, PaloAlto, pfSense, Sophos
+                      Linux, FreeBSD, Windows, Docker, Kubernetes, WHM, Unix Firewall, NGinx HAproxy, cloudflare workers 
 
 Documentation: [official docs site, wiki, README quality]
+[Official Docs](https://doc.crowdsec.net/u/blocklists/security_engine)
+ - Great Documentation and Wiki Built together
+[Wiki](https://doc.crowdsec.net/)
+[ReadMe](https://github.com/crowdsecurity/crowdsec?tab=security-ov-file)
+ - Overall Introduction to how Crowd-sec works
 
 6. License, Contribution Procedures, and Contributor Agreements
 
