@@ -2,17 +2,23 @@
 
 ## Team
 
-Mujib Latifi · Kowshik Chowdhury · Leonard Meredith · Trung Phan · Hrudhay Rao Chepyala Repository: [link to this repo] Project Board: [link to GitHub Project] Date: [submission date]
+Mujib Latifi · Kowshik Chowdhury · Leonard Meredith · Trung Phan · Hrudhay Rao Chepyala 
+
+Repository: [link](https://github.com/StevePhan412/CSCI-8420-Group-2) 
+
+Project Board: [link](https://github.com/users/StevePhan412/projects/1)
 
 ## 1. Open-Source Software
 
 ### Software
 
-[name — pending Issue #1]
+#### CrowdSec
 
 ### Repository
 
-[link to the software's open-source repo — pending Issue #1]
+[Github](https://github.com/crowdsecurity/crowdsec)
+
+[DockerHub](https://hub.docker.com/r/crowdsecurity/crowdsec)
 
 ## 2. Systems Engineering View
 
