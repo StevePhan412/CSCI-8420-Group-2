@@ -1,16 +1,16 @@
 # Project Proposal — CSCI-8420 Group 2
 
-## Team:
+## Team
 
 Mujib Latifi · Kowshik Chowdhury · Leonard Meredith · Trung Phan · Hrudhay Rao Chepyala Repository: [link to this repo] Project Board: [link to GitHub Project] Date: [submission date]
 
 ## 1. Open-Source Software
 
-### Software:
+### Software
 
-[name — pending Issue #1] 
+[name — pending Issue #1]
 
-### Repository: 
+### Repository
 
 [link to the software's open-source repo — pending Issue #1]
 
@@ -20,7 +20,7 @@ Mujib Latifi · Kowshik Chowdhury · Leonard Meredith · Trung Phan · Hrudhay R
 
 Hypothetical operational environment: [home / office / enterprise / bank / government — describe the setting and why users there would deploy this software]
 
-### Systems engineering diagram:
+### Systems engineering diagram
 
 [Embed diagram image here, e.g. ![systems diagram](diagrams/systems-view.png). Diagram should show the software's components, the actors/users involved, adjacent systems it interacts with, network zones, and trust boundaries within the chosen environment.]
 
@@ -41,7 +41,7 @@ Threat	Addressed by
 [threat]	[feature]
 [threat]	[feature]
 
-## 4. Team Motivation#
+## 4. Team Motivation
 
 (Issue #5)
 
@@ -49,23 +49,23 @@ Threat	Addressed by
 
 ## 5. Open-Source Project Description
 
-### What it is:
+### What it is
 
 CrowdSec is an open-source security engine that works like Fail2Ban, but takes it a step further. Where Fail2Ban reacts to known malicious behavior on a single machine for instance, detecting a brute-force attempt and banning that IP from accessing the machine CrowdSec leverages every machine running the program to help stop known malicious IPs collectively. It records that IP and distributes it to all other machines running the service, meaning an attacker gets banned from other machines before even attempting to attack them.
 
-### Contributors & maintainers:
+### Contributors & maintainers
 
 blotus, buxior & Jdv / CrowdSec SAS, 86 Contributors
 
-### Activity:
+### Activity
 
 162 commits over 6 months (avg 27/month), 224 open issues / 1,018 closed issues (~18% of all issues are open), currently at v1.8.1 (over 223 releases)
 
-### Popularity:
+### Popularity
 
 14.8K stars, 715 forks
 
-### Languages & core dependencies:
+### Languages & core dependencies
 
 - Go 83.2%
 - Shell 11.7%
@@ -76,11 +76,11 @@ blotus, buxior & Jdv / CrowdSec SAS, 86 Contributors
 
 Core dependencies: Docker, Go, Grok Patterns, SSH, SQLite
 
-### Supported platforms:
+### Supported platforms
 
 Checkpoint, Cisco, F5, Fortinet, Juniper, Mikrotik, OPNsense, PaloAlto, pfSense, Sophos, Linux, FreeBSD, Windows, Docker, Kubernetes, WHM, Unix Firewall, NGinx, HAProxy, Cloudflare Workers
 
-### Documentation:
+### Documentation
 
 - [Official Docs](https://docs.crowdsec.net/) — comprehensive documentation and wiki maintained together
 - [GitHub README](https://github.com/crowdsecurity/crowdsec) — overall introduction to how CrowdSec works
@@ -89,19 +89,19 @@ Checkpoint, Cisco, F5, Fortinet, Juniper, Mikrotik, OPNsense, PaloAlto, pfSense,
 
 (Issue #7)
 
-### License:
+### License
 
 [license name — confirm it's OSI-recognized open source]
 
-### What it permits/requires:
+### What it permits/requires
 
 [modification, redistribution, commercial use, copyleft implications]
 
-### Contribution process:
+### Contribution process
 
 [summary of CONTRIBUTING.md — PR process, code review norms, testing/style requirements]
 
-### Contributor agreement:
+### Contributor agreement
 
 [CLA or DCO requirement, if any]
 
