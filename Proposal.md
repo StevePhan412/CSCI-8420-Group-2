@@ -2,9 +2,9 @@
 
 ## Team
 
-Mujib Latifi · Kowshik Chowdhury · Leonard Meredith · Trung Phan · Hrudhay Rao Chepyala 
+Mujib Latifi · Kowshik Chowdhury · Leonard Meredith · Trung Phan · Hrudhay Rao Chepyala
 
-Repository: [link](https://github.com/StevePhan412/CSCI-8420-Group-2) 
+Repository: [link](https://github.com/StevePhan412/CSCI-8420-Group-2)
 
 Project Board: [link](https://github.com/users/StevePhan412/projects/1)
 
