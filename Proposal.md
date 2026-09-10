@@ -123,6 +123,6 @@ Leonard: [reflection]
 Trung: [reflection]
 Hrudhay: [reflection]
 
-### Team reflection (compiled):
+### Team reflection (compiled)
 
 [Synthesized summary of the above — not just a list of quotes.]
